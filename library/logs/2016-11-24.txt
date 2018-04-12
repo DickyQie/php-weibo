@@ -1,0 +1,57 @@
+Time : 11:00:34
+SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'addtime' at row 1
+Raw SQL : insert into mr_friends (user_id,friend_id,status,addtime) value (:user_id,:friend_id,1,:addtime)
+
+Time : 11:00:32
+SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'addtime' at row 1
+Raw SQL : insert into mr_friends (user_id,friend_id,status,addtime) value (:user_id,:friend_id,1,:addtime)
+
+Time : 11:00:30
+SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'addtime' at row 1
+Raw SQL : insert into mr_friends (user_id,friend_id,status,addtime) value (:user_id,:friend_id,1,:addtime)
+
+Time : 11:00:25
+SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'addtime' at row 1
+Raw SQL : insert into mr_friends (user_id,friend_id,status,addtime) value (:user_id,:friend_id,1,:addtime)
+
+Time : 10:55:01
+SQLSTATE[HY000]: General error: 1364 Field 'qq' doesn't have a default value
+Raw SQL : insert into mr_user ( username , password ,addtime ) VALUE ( :username ,:password ,1479981301)
+
+Time : 10:53:22
+SQLSTATE[HY000]: General error: 1364 Field 'qq' doesn't have a default value
+Raw SQL : insert into mr_user ( username , password ,addtime ) VALUE ( :username ,:password ,1479981202)
+
+Time : 10:52:18
+SQLSTATE[HY000]: General error: 1364 Field 'qq' doesn't have a default value
+Raw SQL : insert into mr_user ( username , password ,addtime ) VALUE ( :username ,:password ,1479981138)
+
+Time : 10:29:59
+SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+Time : 10:22:46
+SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+Time : 10:22:45
+SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+Time : 10:22:45
+SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+Time : 10:22:45
+SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+Time : 10:22:44
+SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+Time : 10:22:43
+SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+Time : 10:22:32
+SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+Time : 10:22:29
+SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+Time : 10:22:14
+SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)

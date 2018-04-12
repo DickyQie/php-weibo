@@ -1,0 +1,63 @@
+Time : 09:33:07
+SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'addtime' at row 1
+Raw SQL : insert into mr_friends (user_id,friend_id,status,addtime) value (:user_id,:friend_id,1,:addtime)
+
+Time : 09:31:03
+SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'addtime' at row 1
+Raw SQL : insert into mr_friends (user_id,friend_id,status,addtime) value (:user_id,:friend_id,1,:addtime)
+
+Time : 09:30:41
+SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'addtime' at row 1
+Raw SQL : insert into mr_friends (user_id,friend_id,status,addtime) value (:user_id,:friend_id,1,:addtime)
+
+Time : 09:29:28
+SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'addtime' at row 1
+Raw SQL : insert into mr_friends (user_id,friend_id,status,addtime) value (:user_id,:friend_id,1,:addtime)
+
+Time : 09:27:05
+SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'addtime' at row 1
+Raw SQL : insert into mr_friends (user_id,friend_id,status,addtime) value (:user_id,:friend_id,1,:addtime)
+
+Time : 09:26:51
+SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'addtime' at row 1
+Raw SQL : insert into mr_friends (user_id,friend_id,status,addtime) value (:user_id,:friend_id,1,:addtime)
+
+Time : 09:26:50
+SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'addtime' at row 1
+Raw SQL : insert into mr_friends (user_id,friend_id,status,addtime) value (:user_id,:friend_id,1,:addtime)
+
+Time : 09:23:41
+SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'addtime' at row 1
+Raw SQL : insert into mr_friends (user_id,friend_id,status,addtime) value (:user_id,:friend_id,1,:addtime)
+
+Time : 09:02:30
+SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'addtime' at row 1
+Raw SQL : insert into mr_friends (user_id,friend_id,status,addtime) value (:user_id,:friend_id,1,:addtime)
+
+Time : 09:02:28
+SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'addtime' at row 1
+Raw SQL : insert into mr_friends (user_id,friend_id,status,addtime) value (:user_id,:friend_id,1,:addtime)
+
+Time : 08:59:29
+SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'addtime' at row 1
+Raw SQL : insert into mr_friends (user_id,friend_id,status,addtime) value (:user_id,:friend_id,1,:addtime)
+
+Time : 08:59:28
+SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'addtime' at row 1
+Raw SQL : insert into mr_friends (user_id,friend_id,status,addtime) value (:user_id,:friend_id,1,:addtime)
+
+Time : 08:59:16
+SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'addtime' at row 1
+Raw SQL : insert into mr_friends (user_id,friend_id,status,addtime) value (:user_id,:friend_id,1,:addtime)
+
+Time : 08:58:10
+SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'addtime' at row 1
+Raw SQL : insert into mr_friends (user_id,friend_id,status,addtime) value (:user_id,:friend_id,1,:addtime)
+
+Time : 08:58:09
+SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'addtime' at row 1
+Raw SQL : insert into mr_friends (user_id,friend_id,status,addtime) value (:user_id,:friend_id,1,:addtime)
+
+Time : 08:58:06
+SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'addtime' at row 1
+Raw SQL : insert into mr_friends (user_id,friend_id,status,addtime) value (:user_id,:friend_id,1,:addtime)

@@ -1,0 +1,15 @@
+Time : 07:06:35
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : insert into mr_user ( username , password ,addtime ) VALUE ( :username ,:username ,1474866395)
+
+Time : 07:04:42
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : insert into mr_user ( username , password ,addtime ) VALUE ( :username ,:username ,:addtime)
+
+Time : 07:00:19
+SQLSTATE[HY000]: General error: 2031 
+Raw SQL : insert into mr_user ( username , password ,addtime ) VALUE ( :username ,:username ,:addtime)
+
+Time : 07:00:11
+SQLSTATE[HY000]: General error: 2031 
+Raw SQL : insert into mr_user ( username , password ,addtime ) VALUE ( :username ,:username ,:addtime)

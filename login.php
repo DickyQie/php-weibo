@@ -40,7 +40,7 @@
                 <button id="login" class="ui fluid large teal submit  button" >登录</button>
             </div>
             <div class="ui message">
-                新用户? <a href="">注册</a>
+                新用户? <a href="register.php">注册</a>
             </div>
         </div>
         <!-- 推荐输入区结束 -->
@@ -67,7 +67,7 @@
 </div>
 <div class="clear"></div>
 <div class="footer">
-    Copyright@2016四川省歆语科技有限公司
+    Copyright@2016吉林省明日科技有限公司
 </div>
 
 <script>
@@ -84,7 +84,15 @@
             return false;
         }
         //js验证
-       
+        $.post("ajaxCheckLogin.php", {username: username,password:password}, function(data) {
+            if (data == -1) {
+                layer.msg('用户名或密码错误');
+                return false;
+            }
+            if (data == 1){
+                window.location.href = "index.php";
+            }
+        });
         return false;
     });
 </script>

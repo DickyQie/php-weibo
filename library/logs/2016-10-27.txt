@@ -1,0 +1,15 @@
+Time : 09:42:02
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ': username and password = : password' at line 1
+Raw SQL : select * from mr_user where username = : username and password = : password
+
+Time : 09:41:58
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ': username and password = : password' at line 1
+Raw SQL : select * from mr_user where username = : username and password = : password
+
+Time : 09:41:49
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ': username and password = : password' at line 1
+Raw SQL : select * from mr_user where username = : username and password = : password
+
+Time : 09:41:46
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ': username and password = : password' at line 1
+Raw SQL : select * from mr_user where username = : username and password = : password
