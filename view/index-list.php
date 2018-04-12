@@ -10,7 +10,7 @@
         <?php include("view/common/send-weibo.php"); ?>
         <!--广告开始-->
         <div class="little_banner">
-            <a href="https://mrbccd.taobao.com/">
+            <a href="">
             <img src="public/images/weibo_banner.png">
             </a>
         </div>

@@ -35,7 +35,7 @@
     <div class="mr_book">
         <h4>明日热销图书</h4>
         <div class="mr_boox_list">
-            <a href="http://www.mingribook.com/">
+            <a href="">
             <img src="public/images/mr_book_PHP.png">
             <ul>
                 <li>PHP开发案例讲座</li>
@@ -45,7 +45,7 @@
             </a>
         </div>
         <div class="mr_boox_list">
-            <a href="http://www.mingribook.com/">
+            <a href="">
             <img src="public/images/mr_book_Android.png">
             <ul>
                 <li>Android从入门到精通</li>
@@ -55,7 +55,7 @@
             </a>
         </div>
         <div class="mr_boox_list">
-            <a href="http://www.mingribook.com/">
+            <a href="">
             <img src="public/images/mr_book_JAVA.png">
             <ul>
                 <li>Java从入门到精通</li>
