@@ -12,7 +12,7 @@
     }
     $addtime  = time();//当前时间戳
     //写入user表
-    $insert_sql = "insert into mr_user ( username , password ,addtime ) VALUE ( :username ,:password ,$addtime)";
+    $insert_sql = "insert into mr_user (username, password,addtime ) VALUE (:username ,:password ,$addtime)";
     $insert_id  = $db->query($insert_sql,array('username'=>$username,'password'=>md5($password)));
     if($insert_id){
         echo 1;

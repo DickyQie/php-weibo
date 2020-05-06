@@ -104,7 +104,7 @@ function filled_out($form_vars){
  */
 function is_login(){
     session_start(); //开启session
-    if(isset($_SESSION['user']['id']) && isset($_SESSION['user']['username'])){
+    if(isset($_SESSION['user']['username'])){
         return true;
     }else{
         echo "<script>window.location.href = 'login.php'</script>";
